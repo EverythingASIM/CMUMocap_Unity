@@ -1,2 +1,1 @@
-# CMUMocap_Unity
-CMUMocap_Unity
+# CMUMocapUnity
